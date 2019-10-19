@@ -1,2 +1,5 @@
 # IMF-Scraper
-Unpolished script to automate scraping, interpolation, and import of IMF data 
+Unpolished script to automate scraping, interpolation, and import of IMF data
+
+By Daniel Kang 
+March 2019 
