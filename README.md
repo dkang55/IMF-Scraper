@@ -8,4 +8,4 @@ Unpolished script to automate scraping, interpolation, and import of IMF data
 4) In terminal (mac) run: python IMF_extractor2.py
 
 By Daniel Kang 
-March 2019 
+April 2019 
