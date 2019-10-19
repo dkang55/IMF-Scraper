@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import time
 
-# Took some code from: https://github.com/camisatx/pySecMaster/blob/master/pySecMaster/download.py
+# Took some code from: https://github.com/camisatx/pySecMaster/blob/master/pySecMaster/download.py; 'Copyright (C) 2018 Josh Schertz'
 
 def IMF_rate_limit(rate=10, period_sec=5, threads=1):
     """
